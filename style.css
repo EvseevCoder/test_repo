@@ -12,6 +12,11 @@
   gap: 20px;
 }
 
+.block {
+  display: flex;
+  gap: 20px;
+}
+
 .red {
   width: 200px;
   height: 200px;
@@ -27,5 +32,5 @@
 .blue {
   width: 200px;
   height: 200px;
-  background-color: blue;
+  background-color: rgb(29, 82, 255);
 }
