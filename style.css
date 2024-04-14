@@ -12,15 +12,28 @@
   gap: 20px;
 }
 
+.block {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
 .red {
   width: 200px;
   height: 200px;
   background-color: red;
 }
+
 .yellow {
   width: 200px;
   height: 200px;
-  background-color: rgb(251, 255, 29);
+  background-color: rgb(240, 236, 27);
+}
+
+.blue {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(29, 82, 255);
 }
 
 .blue {
