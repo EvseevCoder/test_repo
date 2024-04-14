@@ -9,35 +9,11 @@
 
 .block {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
 }
 
-.block {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.red {
+.block img {
   width: 200px;
-  height: 200px;
-  background-color: red;
-}
-
-.yellow {
-  width: 200px;
-  height: 200px;
-  background-color: rgb(240, 236, 27);
-}
-
-.blue {
-  width: 200px;
-  height: 200px;
-  background-color: rgb(29, 82, 255);
-}
-
-.blue {
-  width: 200px;
-  height: 200px;
-  background-color: rgb(29, 52, 255);
+  border-radius: 20px;
 }
