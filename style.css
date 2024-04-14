@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
